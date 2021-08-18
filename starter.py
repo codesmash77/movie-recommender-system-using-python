@@ -20,11 +20,9 @@ def get_index_from_title(title):
 
 ##Step 5: Compute the Cosine Similarity based on the count_matrix
 
+## Step 6: Get index of this movie from its title
 movie_user_likes = "Avatar"
 
-## Step 6: Get index of this movie from its title
-
 ## Step 7: Get a list of similar movies in descending order of similarity score
-
 
 ## Step 8: Print titles of first 50 movies
